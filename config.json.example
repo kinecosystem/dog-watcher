@@ -9,6 +9,9 @@
   "//": "has changed since the last git commit.",
   "sendEventOnNoop": "false",
 
+  "//": "Use {IP} in the commitMessage to insert the machine's IP address",
+  "commitMessage": "Automatic backup (by dog-watcher, machine ip: {IP})",
+
   "//": "(optional) Your own custom noop message.",
   "noopEventMessage": "Nothing to see here",
 
